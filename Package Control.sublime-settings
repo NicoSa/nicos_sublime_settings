@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Handlebars",
+		"HTMLBeautify",
+		"Package Control",
+		"Pug",
+		"Python PEP8 Autoformat",
+		"SCSS",
+		"SublimeLinter",
+		"SublimeLinter-contrib-sublime-syntax"
+	]
+}
